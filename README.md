@@ -8,7 +8,7 @@
   - KB4m_Tests_V6.zip
   - KB4m_Cameras_XLS_V6.zip
 
-- Post processing mupyter notebook
+- Jupyter notebook used for the post-processing of the lab data 
   - "YB_ExpAnalysis_V01.ipynb"  
   
 - Excel file with the results
