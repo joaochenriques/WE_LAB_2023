@@ -16,3 +16,9 @@
 
 - Excel file with the results for the higher wave heights
   -  KB4m_Tests_V6.xlsx
+  
+  
+## IMPORTANT NOTE
+- The Excel files contain all the data needed to prepare the report.
+- The time series included in the Excel files have been filtered as described in the Jupyter notebook.
+
