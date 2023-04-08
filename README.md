@@ -11,8 +11,8 @@
 - Jupyter notebook used for post-processing of laboratory data 
   - "YB_ExpAnalysis_V01.ipynb"  
   
-- Zip of the Excel file with the results for the lower wave heights
+- Excel file with the results for the lower wave heights
   -  YB2m_Tests_V6.xlsx
 
-- Zip of the excel file with the results for the higher wave heights
+- Excel file with the results for the higher wave heights
   -  KB4m_Tests_V6.xlsx
