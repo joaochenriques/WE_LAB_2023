@@ -18,7 +18,7 @@
   -  KB4m_Tests_V6.xlsx
   
   
-## IMPORTANT NOTE
+## IMPORTANT NOTES
 - The Excel files contain all the data needed to prepare the report.
 - The time series included in the Excel files have been filtered as described in the Jupyter notebook.
 - The zero of the time series data from the cameras is not the same as the other time series due to the absence of a trigger in the experiment.
